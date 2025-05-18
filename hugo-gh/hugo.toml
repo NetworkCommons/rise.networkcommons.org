@@ -1,16 +1,16 @@
 baseURL = 'https://sig0namectl.networkcommons.org/'
 languageCode = 'en-us'
-title = 'sig0namectl'
+title = 'network commons'
 theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
 [params]
   subtitle = 'to name is to own'
   toc = true
-  # site_logo = "images/mycosystem-section-cut.jpg"
+  site_logo = "images/nc-network-commons-plain-export.png"
   custom_css = ["custom.css"]
   [[params.ananke_socials]]
     name = "github"
-    url = "https://github.com/networkcommons/sig0namectl"
+    url = "https://github.com/networkcommons/networkcommons.org"
 [markup]
   [markup.tableOfContents]
     endLevel = 2
@@ -18,6 +18,8 @@ enableInlineShortcodes = true
     startLevel = 2
   [markup.goldmark.renderer]
     unsafe = true
+[outputs]
+  home = ["HTML", "RSS"]
 [menu]
 [[menu.main]]
 identifier = "home"

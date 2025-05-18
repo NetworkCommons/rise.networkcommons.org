@@ -1,10 +1,8 @@
 ---
-title: "sig0namectl"
+title: "The Rise of the Network Commons"
 
-description: "'sig zero name control' - to name is to share"
+description: "A History of Community Infrastructure by Armin Medosch"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 #cascade:
-featured_image: '/images/sig0-tree.jpg'
-# featured_image: '/images/mycosystem-section-cut.jpg'
+featured_image: '/images/back-cover-gfx.svg'
 ---
-Empowering communities to securely publish & share their own local resources
