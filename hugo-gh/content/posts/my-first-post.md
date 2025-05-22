@@ -6,7 +6,6 @@ draft = false
 featured_image = ""
 +++
 
-{{< embed-pdf url="./FINAL_TOD58.pdf" hideLoader="true" hidePaginator="true" >}}
 
 
 
