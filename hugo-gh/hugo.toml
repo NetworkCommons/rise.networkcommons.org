@@ -1,4 +1,4 @@
-baseURL = 'https://sig0namectl.networkcommons.org/'
+baseURL = 'https://www.networkcommons.org/'
 languageCode = 'en-us'
 title = 'network commons'
 theme = ["hugo-embed-pdf-shortcode", "ananke"]
