@@ -1,7 +1,7 @@
 +++
 title = 'README'
 layout = 'posts'
-date = 2024-04-10T11:12:15+02:00
+date = 2025-05-26T07:12:15+02:00
 draft = false
 featured_image = ""
 +++
@@ -10,7 +10,7 @@ featured_image = ""
 
 
 ## 🚧 Work in progress
-
+<!--more-->
 
 
 ## 👤 Contributing
