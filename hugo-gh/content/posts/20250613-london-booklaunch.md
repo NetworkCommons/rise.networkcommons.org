@@ -7,7 +7,7 @@ featured_image = "/images/endpartic.jpg"
 entry="London Book Launch"
 +++
 
-Friday, 13 June 2025, 4:30pm-9:30pm
+Friday, 13 June 2025, 16:30-21:30 BST
 
 Hermitage Community Moorings, 16 Wapping High Street
 London E1W 1NG
