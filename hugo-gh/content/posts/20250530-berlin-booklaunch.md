@@ -26,7 +26,7 @@ Published by the Institute of Network Cultures as PDF, epub and print on demand.
 
 We hope you will join us to celebrate the launch of Armin’s book.
 
-Please bring along your community networking experiences and memories together with visions and challenges for the future of community infrastrusture.
+Please bring along your community networking experiences and memories together with visions and challenges for the future of community infrastructure.
 
 
 c-ven, Volker and Adam.
