@@ -10,4 +10,4 @@ menu:
 
 # 📖 The Rise of the Network Commons
 
-This website documents the progress of the publication of the book 'The Rise of the Network Commons' by Armin Medosch.
+This website will begin by documenting the progress of the publication of the book 'The Rise of the Network Commons' by Armin Medosch.
