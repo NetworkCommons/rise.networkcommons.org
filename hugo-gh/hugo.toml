@@ -11,6 +11,9 @@ enableInlineShortcodes = true
   [[params.ananke_socials]]
     name = "github"
     url = "https://github.com/networkcommons/networkcommons.org"
+  [[params.ananke_socials]]
+    name = "rss"
+    url = "https://www.networkcommons.org/index.xml"
 [markup]
   [markup.tableOfContents]
     endLevel = 2
