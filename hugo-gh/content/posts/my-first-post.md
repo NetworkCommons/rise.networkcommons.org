@@ -11,7 +11,7 @@ featured_image = ""
 
 ## 🚧 Work in progress
 <!--more-->
-{{< embed-pdf url="./FINAL_TOD58.pdf" hideLoader="true" hidePaginator="true" >}}
+{{< embed-pdf url="20250528 The-Rise-of-the-Network-Commons_INC2025_TOD58.pdf" hideLoader="true" hidePaginator="true" >}}
 
 ## 👤 Contributing
 
