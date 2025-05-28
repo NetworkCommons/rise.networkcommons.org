@@ -11,7 +11,7 @@ featured_image = ""
 
 ## 🚧 Work in progress
 <!--more-->
-
+{{< embed-pdf url="./FINAL_TOD58.pdf" hideLoader="true" hidePaginator="true" >}}
 
 ## 👤 Contributing
 
