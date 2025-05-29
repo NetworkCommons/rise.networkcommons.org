@@ -6,3 +6,12 @@ description: "A History of Community Infrastructure by Armin Medosch"
 #cascade:
 featured_image: '/images/back-cover-gfx.png'
 ---
+## Download or Order Hardcopy
+
+<a href="https://networkcultures.org/wp-content/uploads/2025/05/The-Rise-of-the-Network-Commons_INC2025_TOD58.pdf">
+ <img class="special-img-class" src="/images/cover-427x640.jpg">
+</a>
+
+[PDF](https://networkcultures.org/wp-content/uploads/2025/05/The-Rise-of-the-Network-Commons_INC2025_TOD58.pdf)
+[EPUB](https://networkcultures.org/wp-content/uploads/2025/05/The-Rise-of-the-Network-Commons_INC2025_TOD58.epub)
+[Print on Demand](https://www.lulu.com/shop/armin-medosch/the-rise-of-the-network-commons-a-history-of-community-infrastructure/paperback/product-yvyjw8z.html?page=1&pageSize=4)
