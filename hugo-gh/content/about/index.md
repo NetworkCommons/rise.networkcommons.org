@@ -8,6 +8,8 @@ menu:
 ---
 
 
-# 📖 The Rise of the Network Commons
+The concept of a 'Network Commons' evolved from conversations between Julian Priest, Armin Medosch and Adam Burns, and influenced by exposure to Elinor Ostram's work on developing the concept of the commons, countering the narrative of the 'tragedy'. 
 
-This website will begin by documenting the progress of the publication of the book 'The Rise of the Network Commons' by Armin Medosch.
+These ideals were explored and collectively embedded into the [PicoPeering Agreement](https://picopeer.net/) a foundational social contract for participants of  many diverse community networks.
+
+networkcommons.org aims to research and document methods and practices that not only build from open source, open data and meaningful access movements, but also to examine new methods of disintermediation and meaningful participation within local networks and resources 'at the edge'.
