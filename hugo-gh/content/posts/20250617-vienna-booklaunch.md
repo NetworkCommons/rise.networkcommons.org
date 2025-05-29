@@ -59,5 +59,5 @@ Geert Lovink, Ruben Stoffelen and Katja van Stiphout at Institute of Network Cul
 <figure>
   <img class="special-img-class" src="/images/Monoskop-44-02.jpg">
   <figcaption>TECHNOPOLITICS: Front (L-R): Doron Goldfarb, Ina Zwerger, Armin Medosch, Gerald Nestler; 
-  Back (L-R): Sylvia Eckermann, Axel Stockburger,Felix Stalder, Gerald Straub. Wien, MAK, 6/2016.</figcaption>
+  Back (L-R): Sylvia Eckermann, Axel Stockburger, Felix Stalder, Gerald Straub. Wien, MAK, 6/2016.</figcaption>
 </figure> 
