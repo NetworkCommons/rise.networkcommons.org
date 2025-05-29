@@ -12,4 +12,6 @@ The concept of a 'Network Commons' evolved from conversations between Julian Pri
 
 These ideals were explored and collectively embedded into the [PicoPeering Agreement](https://picopeer.net/) a foundational social contract for participants of  many diverse community networks.
 
-networkcommons.org aims to research and document methods and practices that not only build from open source, open data and meaningful access movements, but also to examine new methods of disintermediation and meaningful participation within local networks and resources 'at the edge'.
+networkcommons.org aims to research, document and develop methods and practices that not only build from open source, open data and meaningful access movements, but also to examine new methods of disintermediation and meaningful participation within local networks and resources 'at the edge'.
+
+
