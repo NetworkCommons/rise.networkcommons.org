@@ -8,7 +8,7 @@ menu:
 ---
 
 
-The concept of a 'Network Commons' evolved from conversations between Julian Priest, Armin Medosch and Adam Burns, and influenced by exposure to Elinor Ostram's work on developing the concept of the commons, countering the narrative of the 'tragedy'. 
+The concept of a 'Network Commons' evolved from conversations between Julian Priest, Armin Medosch and Adam Burns, and influenced by exposure to Elinor Ostrom's work on developing the concept of the commons, countering the narrative of the 'tragedy'. 
 
 These ideals were explored and collectively embedded into the [PicoPeering Agreement](https://picopeer.net/) a foundational social contract for participants of  many diverse community networks.
 
