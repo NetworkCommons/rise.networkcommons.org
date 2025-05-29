@@ -1,5 +1,5 @@
 +++
-title = 'Vienna book launch of The Rise of the Network Commons'
+title = 'Vienna Book Launch of The Rise of the Network Commons'
 layout = 'posts'
 date = 2025-05-24T11:13:15+02:00
 draft = false
