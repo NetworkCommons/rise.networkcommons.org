@@ -26,7 +26,9 @@ We hope to see many of you to celebrate the launch of Armin’s book, please bri
 
 Manu, James, Gavin
 
-<img class="special-img-class" src="/images/cover-427x640.jpg">
+<a href="https://networkcultures.org/wp-content/uploads/2025/05/The-Rise-of-the-Network-Commons_INC2025_TOD58.pdf">
+ <img class="special-img-class" src="/images/cover-427x640.jpg">
+</a>
 
 <b>The Rise of the Network Commons</b>
 

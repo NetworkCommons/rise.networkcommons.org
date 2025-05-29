@@ -31,7 +31,9 @@ Please bring along your community networking experiences and memories together w
 
 c-ven, Volker and Adam.
 
-<img class="special-img-class" src="/images/cover-427x640.jpg">
+<a href="https://networkcultures.org/wp-content/uploads/2025/05/The-Rise-of-the-Network-Commons_INC2025_TOD58.pdf">
+ <img class="special-img-class" src="/images/cover-427x640.jpg">
+</a>
 
 <b>The Rise of the Network Commons</b>
 
