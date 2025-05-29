@@ -24,7 +24,7 @@ We hope you will join us to celebrate the launch of Armin’s book.
 
 We are working on the details and will update you as we have them.
 
-Felix.
+Technopolitics Group.
 
 <a href="https://networkcultures.org/wp-content/uploads/2025/05/The-Rise-of-the-Network-Commons_INC2025_TOD58.pdf">
  <img class="special-img-class" src="/images/cover-427x640.jpg">
@@ -57,6 +57,7 @@ Volker Grassmuck and Adam Burns for initiating the completion of Armin’s publi
 Geert Lovink, Ruben Stoffelen and Katja van Stiphout at Institute of Network Cultures.
 
 Freifunk and c-base for hosting the Berlin launch at the Wireless Community Weekend.
-
-<img class="special-img-class" src="/images/Monoskop-44-02.jpg">
-
+<figure>
+  <img class="special-img-class" src="/images/Monoskop-44-02.jpg">
+  <figcaption>TECHNOPOLITICS: Armin Medosch, Doron Goldfarb, Ina Zwerger, Gerald Nestler, Sylvia Eckermann, Axel Stockburger,<br>Felix Stalder, Gerald Straub. Wien, MAK, 6/2016.</figcaption>
+</figure> 
