@@ -56,7 +56,6 @@ Volker Grassmuck and Adam Burns for initiating the completion of Armin’s publi
 
 Geert Lovink, Ruben Stoffelen and Katja van Stiphout at Institute of Network Cultures.
 
-Freifunk and c-base for hosting the Berlin launch at the Wireless Community Weekend.
 <figure>
   <img class="special-img-class" src="/images/Monoskop-44-02.jpg">
   <figcaption>TECHNOPOLITICS: Front (L-R): Doron Goldfarb, Ina Zwerger, Armin Medosch, Gerald Nestler; 
