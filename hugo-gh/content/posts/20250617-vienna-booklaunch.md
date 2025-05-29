@@ -7,7 +7,7 @@ featured_image = "/images/Monoskop-44-02.jpg"
 entry="Vienna Book Launch"
 +++
 
-Saturday, 17 June 2025, time TBC
+Tuesday, 17 June 2025, time TBC
 
 Secession, Friedrichstraße 12, 1010 Wien, Austria
 
