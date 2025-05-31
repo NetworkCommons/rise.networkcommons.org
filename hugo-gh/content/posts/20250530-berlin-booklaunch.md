@@ -11,9 +11,14 @@ Saturday, 31 May 2025, 19:00-20:00 CEST
 
 c-base, Rungestrasse 20, 10179 berlin
 
+remote viewing stream via [peertube](https://c-tube.c-base.org/w/nUK259rHZk5RsANhrofMqx)
+
 <!--more-->
+
+---
+
 As part of the [Freifunk Wireless Community Weekend](https://wiki.freifunk.net/Wireless_Community_Weekend_2025)
-, you are invited to [c-base](https://c-base.org) for the [Berlin book launch](https://wiki.freifunk.net/Wireless_Community_Weekend_2025:Topics) of:
+ you are invited to [c-base](https://c-base.org) for the [Berlin book launch](https://wiki.freifunk.net/Wireless_Community_Weekend_2025:Topics) of:
 
 The Rise of the Network Commons: A History of Community Infrastructure 
 
