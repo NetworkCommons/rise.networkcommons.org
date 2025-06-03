@@ -9,8 +9,6 @@ entry="Berlin Book Launch"
 
 Saturday, 31 May 2025, 20:00-21:00 CEST
 
-(UPDATE: Last minute 1 hour delay in WCW schedule from 19:00)
-
 c-base, Rungestrasse 20, 10179 berlin
 
 remote viewing stream via [peertube](https://c-tube.c-base.org/w/nUK259rHZk5RsANhrofMqx)
