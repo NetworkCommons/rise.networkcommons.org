@@ -71,3 +71,20 @@ Freifunk and c-base for hosting the Berlin launch at the Wireless Community Week
 <img class="special-img-class" src="/images/Juergen_Freifunk_72dpi.JPG">
 <img class="special-img-class" src="/images/2002-BerLon-PicoPeer-photo.jpg">
 
+---
+
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-julian-priest-signal-2025-05-31-164846_002.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.18.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.19.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.19-2.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.19-3.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.19-4.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-5.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-6.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-7.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-8.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-9.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-10.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-11.jpeg">
+<img class="special-img-class" src="/images/20250531-RotNC-berlin-launch-evelyn-bodenmeier-WhatsApp Image 2025-06-01 at 16.02.20-12.jpeg">
+
