@@ -9,7 +9,7 @@ entry="Vienna Book Launch"
 
 Tuesday, 17 June 2025 18:00 CEST
 
-[Techopolitics](https://technopolitics.info/) @ Secession, Friedrichstraße 12, 1010 Wien, Austria
+[Technopolitics](https://technopolitics.info/) @ Secession, Friedrichstraße 12, 1010 Wien, Austria
 
 <!--more-->
 The Rise of the Network Commons: A History of Community Infrastructure 
