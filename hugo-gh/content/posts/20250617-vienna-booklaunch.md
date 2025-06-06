@@ -7,9 +7,9 @@ featured_image = "/images/Monoskop-44-02.jpg"
 entry="Vienna Book Launch"
 +++
 
-Tuesday, 17 June 2025, time TBC
+Tuesday, 17 June 2025 18:00 CEST
 
-Secession, Friedrichstraße 12, 1010 Wien, Austria
+[Techopolitics](https://technopolitics.info/) @ Secession, Friedrichstraße 12, 1010 Wien, Austria
 
 <!--more-->
 The Rise of the Network Commons: A History of Community Infrastructure 
@@ -21,8 +21,6 @@ Edited by Volker Grassmuck & Adam Burns.
 Published by the Institute of Network Cultures as PDF, epub and print on demand.
 
 We hope you will join us to celebrate the launch of Armin’s book.
-
-We are working on the details and will update you as we have them.
 
 Technopolitics Group.
 
