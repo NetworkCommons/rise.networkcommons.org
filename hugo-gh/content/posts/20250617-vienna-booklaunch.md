@@ -22,7 +22,7 @@ Published by the Institute of Network Cultures as PDF, epub and print on demand.
 
 We hope you will join us to celebrate the launch of Armin’s book.
 
-Technopolitics Group.
+Thomas Thaler, Axel Stockburger, Technopolitics Group.
 
 <a href="https://networkcultures.org/wp-content/uploads/2025/05/The-Rise-of-the-Network-Commons_INC2025_TOD58.pdf">
  <img class="special-img-class" src="/images/cover-427x640.jpg">
