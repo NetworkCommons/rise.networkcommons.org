@@ -1,7 +1,7 @@
 +++
 title = 'Vienna Book Launch'
 layout = 'posts'
-date = 2025-05-24T11:13:15+02:00
+date = 2025-06-17T11:13:15+02:00
 draft = false
 featured_image = "/images/Monoskop-44-02.jpg"
 entry="Vienna Book Launch"

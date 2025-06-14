@@ -1,7 +1,7 @@
 +++
 title = 'London Book Launch'
 layout = 'posts'
-date = 2025-05-25T11:12:15+02:00
+date = 2025-06-13T11:12:15+02:00
 draft = false
 featured_image = "/images/endpartic.jpg"
 entry="London Book Launch"
