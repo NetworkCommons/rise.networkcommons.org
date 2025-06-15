@@ -74,3 +74,13 @@ Chris Helgren for the photo documentation of the East End Net antenna making wor
 <img class="special-img-class" src="/images/rachelmanu.jpg">
 <img class="special-img-class" src="/images/rachelsaulgiorggraham.jpg">
 
+---
+
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch DSC_0631.JPG">
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch DSC_0636.JPG">
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch IMG_5504.JPG">
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch IMG_5505.JPG">
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch IMG_5506.JPG">
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch IMG_5509.JPG">
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch IMG_5512.JPG">
+<img class="special-img-class" src="/images/20250613 RotNC London Book Launch IMG_5513.JPG">
