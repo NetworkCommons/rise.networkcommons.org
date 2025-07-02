@@ -64,5 +64,5 @@ Geert Lovink, Ruben Stoffelen and Katja van Stiphout at Institute of Network Cul
 
 <img class="special-img-class" src="/images/20250617-RotC-vienna-launch-6e9d9c080d010867.jpeg">
 <img class="special-img-class" src="/images/20250617-RotC-vienna-launch-c52e1f1416adeacd.jpeg">
-<img class="special-img-class" src="/images/20250617-RotC-vienna-launch-aa63b7e2633d957f.jpeg">
+<img class="special-img-class" src="/images/20250617-RotC-vienna-launch-aa63b7e2633d957f.jpg">
 
