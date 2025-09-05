@@ -3,7 +3,7 @@ title = 'Heise Online: Review of Rise of the Network Commons'
 layout = 'posts'
 date = 2025-07-06T11:13:15+02:00
 draft = false
-featured_image = "/images/shutterstock_379210036-c501c185fe15c0cc.webp"
+featured_image = "/images/heise.png"
 entry="Stefan Krempl reviews The Rise of the Network Commons"
 +++
 
