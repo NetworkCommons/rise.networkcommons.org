@@ -11,10 +11,10 @@ enableInlineShortcodes = true
   custom_css = ["custom.css"]
   [[params.ananke_socials]]
     name = "github"
-    url = "https://github.com/networkcommons/networkcommons.org"
+    url = "https://github.com/networkcommons/rise.networkcommons.org"
   [[params.ananke_socials]]
     name = "rss"
-    url = "https://www.networkcommons.org/index.xml"
+    url = "https://rise.networkcommons.org/index.xml"
 [markup]
   [markup.tableOfContents]
     endLevel = 2
