@@ -1,6 +1,6 @@
 baseURL = 'https://rise.networkcommons.org/'
 languageCode = 'en-us'
-title = 'network commons'
+title = 'rise of the network commons'
 theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
 [params]
